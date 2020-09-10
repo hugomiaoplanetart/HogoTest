@@ -8,7 +8,7 @@
   <ImageView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="version3!"
+    android:text="version4remote!"
     android:src="@drawable/Homescreen"
     app:layout_constraintBottom_toBottomOf="parent"
     app:layout_constraintLeft_toLeftOf="parent"
